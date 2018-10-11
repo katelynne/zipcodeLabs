@@ -8,13 +8,9 @@
 
 ## Alice and Bob Greeting
 
-## Alice and Bob Greeting
-
-
 ### **Objective:**
 * Write a program which prompts the user to input his/her name.
 * The program should greet users whose names are 'Alice' and 'Bob'.
-
 
 ### **Purpose:**
 * To establish familiarity with
@@ -26,8 +22,6 @@
 
 ### **Resources:**
 * [Fundamental Programming Structures](https://zipcoder.github.io/reveal-slides/fundament-programing-stuctures.html#/)
-
-
 
 ### Unit Test
 * No Unit Test
