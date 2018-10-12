@@ -21,7 +21,7 @@
     * Method invokation
 
 ### **Resources:**
-* [Fundamental Programming Structures](https://zipcoder.github.io/reveal-slides/fundament-programing-stuctures.html#/)
+* [Procedural Programming](https://zipcoder.github.io/reveal-slides-light/procedural-programming.html#/)
 
 ### Unit Test
 * No Unit Test
